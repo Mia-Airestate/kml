@@ -24,16 +24,13 @@
 			<scale>1.1</scale>
 		</LabelStyle>
 	</Style>
-	<StyleMap id="icon-ci-1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#icon-ci-1-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#icon-ci-1-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
+		<Style id="icon-ci-1">
+		<IconStyle>
+		<Icon>
+			<href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/marker/Oval%202%402x.png</href>
+		</Icon>
+		</IconStyle>
+	</Style>
 	<Folder id="00850D5CAB330631BD7B">
 		<name>Untitled spreadsheet - Sheet1 (1).csv</name>
 		<open>1</open>
