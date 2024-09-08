@@ -7,10 +7,11 @@
     <!-- Define the style for the marker (custom icon) -->
     <Style id="customIconStyle">
       <IconStyle>
-        <scale>1.0</scale>
+        <scale>1.0</scale> <!-- Adjust the scale to make the icon larger/smaller if necessary -->
         <Icon>
           <href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/marker/Oval%202%402x.png</href>
         </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> <!-- Center of the icon -->
       </IconStyle>
     </Style>
 
