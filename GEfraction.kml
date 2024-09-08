@@ -8,7 +8,7 @@
         <Icon>
             <href>images/icon-1.png</href>
         </Icon>
-        <hotSpot x="0.5" y="50" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 50px down -->
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> 
     </IconStyle>
     <LabelStyle>
         <scale>0</scale> <!-- Disables the label scale -->
@@ -20,7 +20,7 @@
         <Icon>
             <href>images/icon-1.png</href>
         </Icon>
-        <hotSpot x="0.5" y="50" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 50px down -->
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> 
     </IconStyle>
     <LabelStyle>
         <scale>1</scale> <!-- Default scaling for the label -->
@@ -31,7 +31,7 @@
         <Icon>
             <href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/marker/Oval%202%402x.png</href>
         </Icon>
-        <hotSpot x="0.5" y="50" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 50px down -->
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> 
     </IconStyle>
 </Style>
 	<Folder id="00850D5CAB330631BD7B">
