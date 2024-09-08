@@ -3,33 +3,36 @@
 <Document>
 	<name>Untitled map</name>
 	<Style id="icon-ci-1-normal">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/icon-1.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
+	    <IconStyle>
+		<scale>1.1</scale>
+		<Icon>
+		    <href>images/icon-1.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 10px down -->
+	    </IconStyle>
+	    <LabelStyle>
+		<scale>0</scale>
+	    </LabelStyle>
 	</Style>
 	<Style id="icon-ci-1-highlight">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/icon-1.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-		<Style id="icon-ci-1">
-		<IconStyle>
+	    <IconStyle>
+		<scale>1.1</scale>
 		<Icon>
-			<href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/marker/Oval%202%402x.png</href>
+		    <href>images/icon-1.png</href>
 		</Icon>
-		</IconStyle>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 10px down -->
+	    </IconStyle>
+	    <LabelStyle>
+		<scale>1.1</scale>
+	    </LabelStyle>
+	</Style>
+	<Style id="icon-ci-1">
+	    <IconStyle>
+		<Icon>
+		    <href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/marker/Oval%202%402x.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 10px down -->
+	    </IconStyle>
 	</Style>
 	<Folder id="00850D5CAB330631BD7B">
 		<name>Untitled spreadsheet - Sheet1 (1).csv</name>
