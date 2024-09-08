@@ -4,26 +4,26 @@
 	<name>Untitled map</name>
 <Style id="icon-ci-1-normal">
     <IconStyle>
-        <scale>1.1</scale>
+        <scale>1</scale> <!-- Default scaling, no enlargement -->
         <Icon>
             <href>images/icon-1.png</href>
         </Icon>
         <hotSpot x="0.5" y="50" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 50px down -->
     </IconStyle>
     <LabelStyle>
-        <scale>0</scale>
+        <scale>0</scale> <!-- Disables the label scale -->
     </LabelStyle>
 </Style>
 <Style id="icon-ci-1-highlight">
     <IconStyle>
-        <scale>1.1</scale>
+        <scale>1</scale> <!-- Default scaling, no enlargement -->
         <Icon>
             <href>images/icon-1.png</href>
         </Icon>
         <hotSpot x="0.5" y="50" xunits="fraction" yunits="pixels"/> <!-- Moves the icon 50px down -->
     </IconStyle>
     <LabelStyle>
-        <scale>1.1</scale>
+        <scale>1</scale> <!-- Default scaling for the label -->
     </LabelStyle>
 </Style>
 <Style id="icon-ci-1">
