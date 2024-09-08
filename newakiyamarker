@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>All Markers with Custom Icon</name>
+    <description>KML file with all markers from the provided data</description>
+
+    <!-- Define the style for the marker (custom icon) -->
+    <Style id="customIconStyle">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/marker/Oval%202%402x.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Placemark list -->
+    <Placemark>
+      <name>ID: 191</name>
+      <description>Coordinates: 34.7380479, 137.394367</description>
+      <styleUrl>#customIconStyle</styleUrl>
+      <Point>
+        <coordinates>137.394367,34.7380479,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>ID: 192</name>
+      <description>Coordinates: 35.15906116, 136.9646604</description>
+      <styleUrl>#customIconStyle</styleUrl>
+      <Point>
+        <coordinates>136.9646604,35.15906116,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Continue adding more placemarks as needed -->
+    <Placemark>
+      <name>ID: 193</name>
+      <description>Coordinates: 34.81667734, 137.4042819</description>
+      <styleUrl>#customIconStyle</styleUrl>
+      <Point>
+        <coordinates>137.4042819,34.81667734,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>ID: 194</name>
+      <description>Coordinates: 34.87649063, 136.9048491</description>
+      <styleUrl>#customIconStyle</styleUrl>
+      <Point>
+        <coordinates>136.9048491,34.87649063,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>ID: 195</name>
+      <description>Coordinates: 35.21700945, 136.8114108</description>
+      <styleUrl>#customIconStyle</styleUrl>
+      <Point>
+        <coordinates>136.8114108,35.21700945,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Repeat this for all the data -->
+    <!-- Example: -->
+
+    <Placemark>
+      <name>ID: 196</name>
+      <description>Coordinates: 34.85816133, 137.0658869</description>
+      <styleUrl>#customIconStyle</styleUrl>
+      <Point>
+        <coordinates>137.0658869,34.85816133,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Continue this for all your data -->
+    
+  </Document>
+</kml>
