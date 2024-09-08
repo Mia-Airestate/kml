@@ -29,7 +29,7 @@
 <Style id="icon-ci-1">
     <IconStyle>
         <Icon>
-            <href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/dotfoot16.png</href>
+            <href>https://raw.githubusercontent.com/Mia-Airestate/kml/main/newdot.png</href>
         </Icon>
         <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> 
     </IconStyle>
